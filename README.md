@@ -10,6 +10,8 @@ In the labyrinth of data, I embark on quests to unearth hidden gems. From unstru
 #### 📈 **Visualizing Stories**
 Data is more than a collection of numbers—it's a narrative waiting to be told. With tools like Matplotlib and Tableau, I weave colorful tales that captivate, enlighten, and empower decision-makers.
 
+![Data Visualization](https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif)
+
 #### 🚀 **Eureka Moments**
 Witnessing the birth of a solution from data chaos is my passion. Every "Eureka!" moment—when algorithms align, predictions align, and insights emerge—is a rush of excitement that fuels my journey.
 
@@ -32,5 +34,3 @@ Venture into the data realm with me! Connect on [LinkedIn](https://www.linkedin.
 In this journey, my goal is to [Your Aspiration or Goal in the Data Science Field]. As I navigate this sea of data, I aim to contribute impactful solutions and navigate uncharted territories.
 
 Thanks for stopping by, fellow explorer! Let's chart the course of data-driven discovery together.
-
-![Data Visualization](https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif)
