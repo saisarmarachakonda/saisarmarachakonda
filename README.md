@@ -2,7 +2,9 @@
 
 I'm not just a Data Scientist; I'm a data explorer, insight magician, and pattern detective. Welcome to my data realm, where numbers come to life and stories unfold.
 
-![Data Science](https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif" alt="Data Science" width="200"/>
+</p>
 
 #### 📊 **Exploring Data**
 In the labyrinth of data, I embark on quests to unearth hidden gems. From unstructured chaos to structured brilliance, I wield Python and SQL like a wizard's wand, transforming raw data into valuable insights.
@@ -10,7 +12,9 @@ In the labyrinth of data, I embark on quests to unearth hidden gems. From unstru
 #### 📈 **Visualizing Stories**
 Data is more than a collection of numbers—it's a narrative waiting to be told. With tools like Matplotlib and Tableau, I weave colorful tales that captivate, enlighten, and empower decision-makers.
 
-![Data Visualization](https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif" alt="Data Visualization" width="200"/>
+</p>
 
 #### 🚀 **Eureka Moments**
 Witnessing the birth of a solution from data chaos is my passion. Every "Eureka!" moment—when algorithms align, predictions align, and insights emerge—is a rush of excitement that fuels my journey.
