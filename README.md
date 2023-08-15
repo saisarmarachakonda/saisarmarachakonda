@@ -3,8 +3,9 @@
 I'm not just a Data Scientist; I'm a data explorer, insight magician, and pattern detective. Welcome to my data realm, where numbers come to life and stories unfold.
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif" alt="Data Science" width="200"/>
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/industrial-robot-4468717-3748899.png?f=webp" alt="AI" width="300"/>
 </p>
+
 
 #### 📊 **Exploring Data**
 In the labyrinth of data, I embark on quests to unearth hidden gems. From unstructured chaos to structured brilliance, I wield Python and SQL like a wizard's wand, transforming raw data into valuable insights.
@@ -13,14 +14,14 @@ In the labyrinth of data, I embark on quests to unearth hidden gems. From unstru
 Data is more than a collection of numbers—it's a narrative waiting to be told. With tools like Matplotlib and Tableau, I weave colorful tales that captivate, enlighten, and empower decision-makers.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif" alt="Data Visualization" width="200"/>
+  <img src="https://www.logigroup.com/images/gifs/reporting.gif" alt="Data Visualization" width="400"/>
 </p>
 
 #### 🚀 **Eureka Moments**
 Witnessing the birth of a solution from data chaos is my passion. Every "Eureka!" moment—when algorithms align, predictions align, and insights emerge—is a rush of excitement that fuels my journey.
 
-#### 🧩 **Data Puzzles**
-Data science is a puzzle, and I'm an enthusiast piecing together the big picture. Each dataset is a mosaic, and every challenge is a chance to construct insights, even when the pieces seem unrelated.
+#### 🤖 **AI Enthusiast**
+I'm captivated by the potential of Artificial Intelligence. From automating tasks to making predictions, AI is the driving force behind innovations that reshape industries.
 
 #### 🌟 **Data Sorcery Skills**
 
