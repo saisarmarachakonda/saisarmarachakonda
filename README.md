@@ -2,7 +2,7 @@
 
 I'm not just a Data Scientist; I'm a data explorer, insight magician, and pattern detective. Welcome to my data realm, where numbers come to life and stories unfold.
 
-![Data Science](https://your-image-url.com)
+![Data Science]([https://your-image-url.com](https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif))
 
 #### 📊 **Exploring Data**
 In the labyrinth of data, I embark on quests to unearth hidden gems. From unstructured chaos to structured brilliance, I wield Python and SQL like a wizard's wand, transforming raw data into valuable insights.
