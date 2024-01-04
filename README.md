@@ -2,6 +2,14 @@
 
 Beyond the realm of a mere Data Scientist, I am a data voyager, insight conjurer, and pattern sleuth. Welcome to my data domain, where numbers pulsate with life, and tales of discovery unfold.
 
+### 🌐 My Portfolio
+For a comprehensive view of my projects and professional journey, visit my portfolio:
+
+- [Venkata Sai Kiran Rachakonda's Portfolio](https://saisarmarachakonda.github.io/)
+
+This portfolio is a testament to my dedication and expertise in the field of data science, showcasing my ability to turn data into actionable insights and narratives.
+
+
 ![AI](https://cdni.iconscout.com/illustration/premium/thumb/industrial-robot-4468717-3748899.png?f=webp)
 
 #### 📊 **Data Exploration Odyssey**
