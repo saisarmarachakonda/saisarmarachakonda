@@ -18,13 +18,51 @@ My passion lies in witnessing the birth of solutions from data chaos. Each "Eure
 #### 🤖 **AI Enthusiast**
 Enthralled by the potential of Artificial Intelligence, I see it as the driving force behind innovations reshaping industries. From automating tasks to making predictions, AI captivates me with its transformative capabilities.
 
-#### 🌟 **Skills in Data Sorcery**
+#### 🌟 ** Technical Skills**
 - **Machine Learning:** ⭐⭐⭐⭐⭐
 - **Statistical Analysis:** ⭐⭐⭐⭐
 - **Data Visualization:** ⭐⭐⭐⭐⭐
 - **Python Programming:** ⭐⭐⭐⭐⭐
-- **SQL:** ⭐⭐⭐⭐
+- **SQL:** ⭐⭐⭐⭐⭐
 - **Data Preprocessing:** ⭐⭐⭐⭐⭐
+
+
+#### 🌟 **Skills in Data Sorcery**
+- **Data Preparations:** S3, Dynamo DB, Redshift, Postgres, No SQL, Vector DB, Elastic Search, EFS
+- **Processing:** EC2, Lambda, ECS (Docker, ECR), EKS (Kubernetes/serverless)
+- **Model Building:** SageMaker, EC2, Lambda
+- **Event Handling:** Eventbridge, Schedulers
+- **Orchestration:** Step Functions
+- **Authentication:** Cognito
+- **Load Balancing:** Application, Elastic Load Balancers (EC2), VPN
+- **Big Data Processing:** Spark Jobs in AWS
+- **Inference & Analytics:** Quicksight, ML Flow, Athena, Glue Jobs, Data Drift Analytics
+- **Notifications:** SNS
+- **Monitoring:** CloudWatch
+- **Infrastructure Management:** CloudFormation
+- **Streaming Data:** Kinesis, Kubeflow
+- **Pipeline Management:** Amazon MWAA, AWS Data Pipeline, AWS CodePipeline, CodeBuild
+- **Additional Technologies:** ECR, EMR
+  
+
+---
+Explore my collection of dashboards showcasing my Tableau skills and custom visualizations:
+
+- [Claim Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Claim%20Analysis)
+- [Covid Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Covid%20Analysis)
+- [E-commerce RFM Clustering Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Ecommerce/RFM%20Clustering)
+- [Adventure Works Retail Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Adventure%20Works)
+- [Marketing Analysis - Emails and Campaigns Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Marketing%20Analysis/Emails%20and%20Campaigns)
+- [Superstore Sales Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Superstore%20Analysis/Sales%20Dashboard)
+
+### 🛠 Tools & Technologies
+- **Tableau:** Advanced visualization and storytelling.
+- **AWS SageMaker:** Building, training, and deploying ML models.
+- **Python & SQL:** Data manipulation and analysis.
+- **Machine Learning Frameworks:** Model development and deployment.
+- **Statistical Tools:** For insightful data analysis.
+- **AWS Technologies:** Expertise in a wide range of AWS services for comprehensive data solutions.
+- 
 
 #### 🎯 **Aspiring Goals**
 In this odyssey, my goals are twofold:
@@ -34,6 +72,6 @@ In this odyssey, my goals are twofold:
 2. **Exploration of Uncharted Territories:** Push the boundaries of data science, exploring uncharted territories and pioneering new approaches to problem-solving.
 
 #### 📫 **Let's Collaborate!**
-Embark on a data journey with me! Connect on [LinkedIn](https://www.linkedin.com/in/venkata-rachakonda-82863572/) or shoot a data-packed email to [saisarma.rachakonda@gmail.com](mailto:saisarma.rachakonda@gmail.com).
+Embark on a data journey with me! Connect on [LinkedIn](https://www.linkedin.com/in/saisarmarachakonda/) or shoot a data-packed email to [saisarma.rachakonda@gmail.com](mailto:saisarma.rachakonda@gmail.com).
 
 Thanks for joining the adventure, fellow explorer! Let's chart the course of data-driven discovery together.
