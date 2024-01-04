@@ -75,9 +75,9 @@ Explore my collection of dashboards showcasing my Tableau skills and custom visu
 #### 🎯 **Aspiring Goals**
 In this odyssey, my goals are twofold:
 
-1. **Contribution to Impactful Solutions:** Navigate the data sea with the aim of contributing impactful solutions that make a positive difference in diverse fields.
+1. **Creating Solutions That Matter:** I aim to lead my team in finding valuable insights from data. Our goal is to use these insights to make decisions that really help people and make a difference in various areas.
 
-2. **Exploration of Uncharted Territories:** Push the boundaries of data science, exploring uncharted territories and pioneering new approaches to problem-solving.
+2. **Exploring New Ways in Data Science:** I want to lead the way in trying out new ideas and methods in data science. It's not just about using new tools, but also about encouraging my team to be always curious and ready to learn. Together, we'll find new and better ways to solve problems using data.
 
 #### 📫 **Let's Collaborate!**
 Embark on a data journey with me! Connect on [LinkedIn](https://www.linkedin.com/in/saisarmarachakonda/) or shoot a data-packed email to [saisarma.rachakonda@gmail.com](mailto:saisarma.rachakonda@gmail.com).
