@@ -20,8 +20,19 @@ Data is more than a mere collection of numbers—it's a narrative waiting to unf
 
 ![Data Visualization](https://www.logigroup.com/images/gifs/reporting.gif)
 
-#### 🚀 **Eureka Moments**
-My passion lies in witnessing the birth of solutions from data chaos. Each "Eureka!" moment, where algorithms align, predictions converge, and insights emerge, is a rush of excitement that propels my journey forward.
+---
+Explore my collection of dashboards showcasing my Tableau skills and custom visualizations:
+
+Insurance and Claims
+- [Claim Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Claim%20Analysis)
+Public Datasets
+- [Covid Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Covid%20Analysis)
+Ecommerce
+- [E-commerce RFM Clustering Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Ecommerce/RFM%20Clustering)
+Retail & CPG
+- [Adventure Works Retail Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Adventure%20Works)
+- [Marketing Analysis - Emails and Campaigns Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Marketing%20Analysis/Emails%20and%20Campaigns)
+- [Superstore Sales Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Superstore%20Analysis/Sales%20Dashboard)
 
 #### 🤖 **AI Enthusiast**
 Enthralled by the potential of Artificial Intelligence, I see it as the driving force behind innovations reshaping industries. From automating tasks to making predictions, AI captivates me with its transformative capabilities.
@@ -51,17 +62,7 @@ Enthralled by the potential of Artificial Intelligence, I see it as the driving 
 - **Streaming Data:** Kinesis, Kubeflow
 - **Pipeline Management:** Amazon MWAA, AWS Data Pipeline, AWS CodePipeline, CodeBuild
 - **Additional Technologies:** ECR, EMR
-  
-
 ---
-Explore my collection of dashboards showcasing my Tableau skills and custom visualizations:
-
-- [Claim Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Claim%20Analysis)
-- [Covid Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Covid%20Analysis)
-- [E-commerce RFM Clustering Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Ecommerce/RFM%20Clustering)
-- [Adventure Works Retail Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Adventure%20Works)
-- [Marketing Analysis - Emails and Campaigns Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Marketing%20Analysis/Emails%20and%20Campaigns)
-- [Superstore Sales Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Superstore%20Analysis/Sales%20Dashboard)
 
 ### 🛠 Tools & Technologies
 - **Tableau:** Advanced visualization and storytelling.
