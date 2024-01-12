@@ -23,13 +23,13 @@ Data is more than a mere collection of numbers—it's a narrative waiting to unf
 ---
 Explore my collection of dashboards showcasing my Tableau skills and custom visualizations:
 
-Insurance and Claims
+#### Insurance and Claims
 - [Claim Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Claim%20Analysis)
-Public Datasets
+#### Public Datasets
 - [Covid Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Covid%20Analysis)
-Ecommerce
+#### Ecommerce
 - [E-commerce RFM Clustering Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Ecommerce/RFM%20Clustering)
-Retail & CPG
+#### Retail & CPG
 - [Adventure Works Retail Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Adventure%20Works)
 - [Marketing Analysis - Emails and Campaigns Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Marketing%20Analysis/Emails%20and%20Campaigns)
 - [Superstore Sales Analysis Dashboard](https://github.com/saisarmarachakonda/Dashboards/tree/main/Retail/Superstore%20Analysis/Sales%20Dashboard)
